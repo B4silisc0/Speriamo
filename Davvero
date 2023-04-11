@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: white; /* Sfondo bianco */
+  color: black; /* Testo nero */
+}
+</style>
+</head>
+<body>
+
+<a href="http://www.viaggiatreno.it/infomobilitamobile/pages/cercaTreno/cercaTreno.jsp" target="_blank">Orario</a>
+
+</body>
+</html>
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
